@@ -90,9 +90,6 @@ Follow these steps to set up the dashboard locally:
 
 ## Example Outputs
 
-### **Trust in Government vs Corruption**
-![Scatter Plot Example](https://via.placeholder.com/600x300.png?text=Example+Scatter+Plot)
-
 ### **News Feed**
 - *"Venezuelan residents in Spain increased by 46% this year, reaching 140,214 approvals."* ✅
 - *"There was a significant 75% decrease in residency approvals for Ukrainians."* ❌
@@ -133,8 +130,6 @@ We welcome contributions! Follow these steps:
    git push origin feature/my-feature
    ```
 5. Open a pull request on GitHub.
-
----
 
 ---
 
